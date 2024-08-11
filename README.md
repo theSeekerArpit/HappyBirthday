@@ -1,4 +1,4 @@
 # HappyBirthday
 This is my first github repository
 <br>
-Author- Arpit Singh
+Author- Arpit (Student)
